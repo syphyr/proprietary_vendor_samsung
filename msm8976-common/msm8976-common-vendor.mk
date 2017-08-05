@@ -426,5 +426,4 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
-    libtime_genoff \
-    HotwordEnrollment
+    libtime_genoff
